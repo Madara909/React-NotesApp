@@ -58,6 +58,5 @@ Technologies used in the project:
 *   Mongodb
 *   ExpressJS
 *   HTML
-*   Tailwind CSS
 *   JavaScript
 *   React-Icons
